@@ -1,10 +1,9 @@
-# AI_For_Chemistry
+# AI For Chemistry
 AI for Chemistry – Course Materials
 
-This repository contains course materials for the AI for Chemistry class, including Python scripts, datasets, tutorials, and project guidelines.
+This repository contains course materials for the AI for Chemistry class offered by the Department of Chemistry at Kookmin University, taught by Professor Joonyoung F. Joung.
 
 Key Topics:
-
 Python Programming for Chemical Data Analysis
 Chemical Representations (SMILES, InChI, Graphs)
 Machine Learning Applications in Chemistry
