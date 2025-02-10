@@ -32,6 +32,18 @@
 - **GitHub** – 버전 관리 및 협업 플랫폼  
 
 ---
+## 강의 목록
+| Week | Topic                             | Link to Colab |
+|------|-----------------------------------|--------------|
+| 1    | Intro to AI with Python               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/Week_1_Introduction_to_AI_with_Python.ipynb) |
+| 1    | Python and Jupyter               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/Week_1_Python_Basics.ipynb) |
+|      | Pandas                            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/Week_1_Pandas_Basics.ipynb) |
+|      | Plotting data                     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/Week_1_Plotting_data.ipynb) |
+|      | Intro to RDKit                    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/Week_1_rdkit_basics.ipynb) |
+| 2    | Supervised ML                     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
+
+
+---
 
 ## 📧 **문의**  
 질문이나 토론을 원하면 아래로 연락주세요!  
