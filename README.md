@@ -40,7 +40,7 @@
 |      | Pandas                            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/Week_1_Pandas_Basics.ipynb) |
 |      | Plotting data                     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/Week_1_Plotting_data.ipynb) |
 |      | Intro to RDKit                    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/Week_1_rdkit_basics.ipynb) |
-| 2    | Supervised ML                     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
+| 2    | Supervised ML                     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/](https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/Week_2_Supervised_Machine_Learning.ipynb)) |
 
 
 ---
