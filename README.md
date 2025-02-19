@@ -8,6 +8,10 @@
 ## 📚 **강의 개요**  
 이 저장소는 **인공지능(AI)** 및 **Python 프로그래밍**을 활용하여 실제 화학 문제를 해결하는 방법을 학습하는 자료를 포함하고 있습니다.  
 
+본 강의의 강의 노트는 MIT의 "Machine Learning for Molecular Engineering" 및 "Introduction to Deep Learning" 강의를 참고하였으며,
+Jupyter Notebook 실습 예제는 EPFL의 Philippe Schwaller 교수가 만든 [AI4Chemistry](https://schwallergroup.github.io/ai4chem_course/) 강의를 기반으로 구성되었습니다.
+
+
 학생들은 다음과 같은 도구와 기법을 실습하며 배울 수 있습니다:  
 - 화학 데이터 분석  
 - 분자 구조 표현 방법  
