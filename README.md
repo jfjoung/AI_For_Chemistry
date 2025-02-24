@@ -46,8 +46,8 @@ Jupyter Notebook 실습 예제는 EPFL의 Philippe Schwaller 교수가 만든 [A
 |      | Intro to RDKit                    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/notebooks/week1/Week_1_rdkit_basics.ipynb) |
 | 2    | Supervised ML                     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/notebooks/week2/Week_2_Supervised_Machine_Learning.ipynb) |
 | 3    | Intro to Deep Learning            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/notebooks/week3/Week_3_Introduction_to_Deep_Learning.ipynb) |
-|      | Graph Neural Network            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/notebooks/week3/Week_3_Graph_Neural_Network.ipynb) |
-| 5    | Graph Neural Network            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/notebooks/week5/Week_5_Dimensionality_Reduction.ipynb) |
+|      | Graph Neural Network              | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/notebooks/week3/Week_3_Graph_Neural_Network.ipynb) |
+| 5    | Dimensionality Reduction          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/notebooks/week5/Week_5_Dimensionality_Reduction.ipynb) |
 
 
 ---
