@@ -45,6 +45,7 @@ Jupyter Notebook 실습 예제는 EPFL의 Philippe Schwaller 교수가 만든 [A
 |      | Plotting data                     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/Week_1_Plotting_data.ipynb) |
 |      | Intro to RDKit                    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/Week_1_rdkit_basics.ipynb) |
 | 2    | Supervised ML                     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/Week_2_Supervised_Machine_Learning.ipynb) |
+| 2    | Intro to Deep Learning            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/Week_3_Introduction_to_Deep_Learning.ipynb) |
 
 
 ---
