@@ -23,3 +23,6 @@ __pycache__/
 
 # Windows
 Thumbs.db
+
+# Ignore the test folder
+test/
