@@ -48,7 +48,7 @@ Jupyter Notebook 실습 예제는 EPFL의 Philippe Schwaller 교수가 만든 [A
 | 3    | Intro to Deep Learning            | <a href="https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/notebooks/week3/Week_3_Introduction_to_Deep_Learning.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> | <a href="https://www.dropbox.com/scl/fi/hzcd2uwvrjpkpw8485tsg/Week-3-Introduction-to-Deep-Learning.pdf?rlkey=6jpi2qam2ksen4sx3t25uy547&dl=0" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="Open PDF" width="20"></a>   |
 |      | Graph Neural Network              | <a href="https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/notebooks/week3/Week_3_Graph_Neural_Network.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> |  |
 | 5    | Dimensionality Reduction          | <a href="https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/notebooks/week5/Week_5_Dimensionality_Reduction.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> |  |
-|      | Clustering          | <a href="https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/Week_5_Clustering.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |  |
+|      | Clustering          | <a href="https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/notebooks/week5/Week_5_Clustering.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |  |
 
 
 
