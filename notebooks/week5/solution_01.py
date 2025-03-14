@@ -17,9 +17,9 @@ esol['Molecule'] = esol['smiles'].apply(Chem.MolFromSmiles)
 # 'Molecule' 열에 있는 NaN을 제거하기 위해 dropna를 사용해보세요.
 esol = esol.dropna(subset=['Molecule'])
 
-# 'Molecule' 열을 이용하여 Morgan fingerprint (r=2, nBits=2048) 생성
-# lambda mol: AllChem.GetMorganFingerprintAsBitVect(mol, radius=2, nBits=2048) 를 사용해보세요.
-esol['MorganFP'] = esol['Molecule'].apply(lambda mol: AllChem.GetMorganFingerprintAsBitVect(mol, radius=2, nBits=2048))
+# 'Molecule' 열을 이용하여 Morgan fingerprint (r=4, nBits=2048) 생성
+# lambda mol: AllChem.GetMorganFingerprintAsBitVect(mol, radius=4, nBits=2048) 를 사용해보세요.
+esol['MorganFP'] = esol['Molecule'].apply(lambda mol: AllChem.GetMorganFingerprintAsBitVect(mol, radius=4, nBits=2048))
 
 # 결과확인
 esol.head()
