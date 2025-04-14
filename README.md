@@ -51,8 +51,7 @@ Jupyter Notebook 실습 예제는 EPFL의 Philippe Schwaller 교수가 만든 [A
 |      | Clustering          | <a href="https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/notebooks/week5/Week_5_Clustering.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |  |
 |      | Pd dimers discovery by kMeans         | <a href="https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/notebooks/week5/Week_5_palladium_dimers_discovery.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |  |
 | 6    | Molecule generation (VAE)         | <a href="https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/notebooks/week6/Week_6_Molecule_generation_(VAE).ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | <a href="https://www.dropbox.com/scl/fi/o9j327z3zc8s0fv69mpf3/Week-6-Molecule-Generation-VAE.pdf?rlkey=febe4hb1bpdcu3gw07umfkjou&dl=0" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="Open PDF" width="20"></a> |
-| 7    |Molecule generation (SMILES-LSTM)  | <a href="https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/notebooks/week7/Week_7_Molecule_generation_(SMILES-LSTM).ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
- |  |
+| 7    |Molecule generation (SMILES-LSTM)  | <a href="https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/notebooks/week7/Week_7_Molecule_generation_(SMILES-LSTM).ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |  |
 
 
 
