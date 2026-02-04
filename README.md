@@ -41,7 +41,8 @@ Jupyter Notebook 실습 예제는 EPFL의 Philippe Schwaller 교수가 만든 [A
 |------|-----------------------------------|--------------|------|
 | 1    | Orientation          |   |    |
 | 2    | Python basic (Variables, list, for loop)          | <a href="https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/notebooks/Week2_1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|    |
-|      | Python basic (dictionary, if/else, function)          | <a href="https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/notebooks/Week2_2.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|    |
+|      | Python basic (dictionary, if/else, function)          | |    |
+|3     |RDKit      |<a href="https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/notebooks/Week3_1_RDKit.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  |   |
 
 
 ---
