@@ -1,7 +1,7 @@
 # 🧪 인공지능화학 – 강의 자료  
 
 **국민대학교 응용화학부**에서 제공하는 **인공지능화학** 강의의 공식 저장소입니다.  
-담당 교수: **정준영**  
+담당 교수: **정준영**  , **전호제**
 
 ---
 
@@ -54,7 +54,7 @@ Jupyter Notebook 실습 예제는 EPFL의 Philippe Schwaller 교수가 만든 [A
 - **Office Hours:** 예약제 운영 
 
 **Professor Hoje Chun**  
-- **Email:**  
+- **Email:**  [hojechun@kookmin.ac.kr](mailto:hojechun@kookmin.ac.kr)
 - **Office Hours:** 예약제 운영 
 
 ---
