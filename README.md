@@ -22,8 +22,8 @@ Jupyter Notebook 실습 예제는 EPFL의 Philippe Schwaller 교수가 만든 [A
 ## 🔑 **주요 주제**  
 
 - **Python을 활용한 화학 데이터 분석**  
-- **화학적 표현 방식 (SMILES, InChI, 그래프)**  
-- **머신러닝의 화학 분야 응용**  
+- **화학적 표현 방식 (SMILES, InChI, Graph)**  
+- **머신러닝의 화학/소재 분야 응용**  
 
 ---
 
@@ -31,6 +31,7 @@ Jupyter Notebook 실습 예제는 EPFL의 Philippe Schwaller 교수가 만든 [A
 
 - **Python**  
 - **RDKit** – 화학 정보학 툴킷  
+- **ASE** - 분자시뮬레이션 패키지
 - **scikit-learn** – 머신러닝 라이브러리  
 - **Google Colab** – 온라인 Python 환경  
 - **GitHub** – 버전 관리 및 협업 플랫폼  
@@ -40,12 +41,10 @@ Jupyter Notebook 실습 예제는 EPFL의 Philippe Schwaller 교수가 만든 [A
 | Week | Topic                             | Link to Colab | PDF |
 |------|-----------------------------------|--------------|------|
 | 1    | Orientation          |   |    |
-| 2    | Python basic (Variables, list, for loop)          | <a href="https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/notebooks/Week2_1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|    |
+| 2    | Python basic (Variables, list, for loop, etc)          | <a href="https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/notebooks/Week2_1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|    |
 |      | Python basic (dictionary, if/else, function)          | <a href="https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/notebooks/Week2_2.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |    |
 |3     |RDKit      |<a href="https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/notebooks/Week3_1_RDKit.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  |   |
 |      |Pandas      |<a href="https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/notebooks/Week3_1_Pandas.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  |   |
-|      |Matplotlib |<a href="https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/notebooks/Week3_2_Matplotlib.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  |   |
-
 
 
 ---
