@@ -48,7 +48,7 @@ Jupyter Notebook 실습 예제는 EPFL의 Philippe Schwaller 교수가 만든 [A
 |4     |Supervised Machine Learning      |<a href="https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/notebooks/Week4_Supervised_Machine_Learning.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  |   |
 |5     |Deep learning      |<a href="https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/notebooks/Week5_2_Introduction_to_Deep_Learning.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  |   |
 |6     |CNN, GNN, Transformer      |<a href="https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/notebooks/Week6_CNN_GNN_Transformer.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  |   |
-
+|7     |Dimensionality Reduction      |<a href="https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/notebooks/Week_7_1_Dimensionality_Reduction.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  |   |
 
 
 ---
