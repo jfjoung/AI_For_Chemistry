@@ -52,6 +52,7 @@ Jupyter Notebook 실습 예제는 EPFL의 Philippe Schwaller 교수가 만든 [A
 |      | Clustering          | <a href="https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/notebooks/Week_7_2_Clustering.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |  |
 |      | Pd dimers discovery by kMeans         | <a href="https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/notebooks/Week_7_3_palladium_dimers_discovery.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |  |
 |9     |ASE and Band Gap Calculation |<a href="https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/notebooks/Week9_ASE_Bandgap.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  |   |
+|10    |ASE and Foundation Model (CHGNet) |<a href="https://colab.research.google.com/github/jfjoung/AI_For_Chemistry/blob/main/notebooks/Week10_CHGNet_ASE.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  |   |
 
 ---
 
